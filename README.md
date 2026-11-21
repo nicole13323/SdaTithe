@@ -39,4 +39,4 @@ keep records and report on giving. Built with C# / WinForms (.NET) and a SQLite 
 - All SQL uses parameters to prevent SQL injection.
 
 ## Author
-Your name, student ID
+Iradukunda Nicole, 28037
